@@ -1,0 +1,10 @@
+C:\Users\Пользователь\source\repos\Lab5_threads\Lab5_threads\bin\Debug\Lab5_threads.exe.config
+C:\Users\Пользователь\source\repos\Lab5_threads\Lab5_threads\bin\Debug\Lab5_threads.exe
+C:\Users\Пользователь\source\repos\Lab5_threads\Lab5_threads\bin\Debug\Lab5_threads.pdb
+C:\Users\Пользователь\source\repos\Lab5_threads\Lab5_threads\obj\Debug\Lab5_threads.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\Lab5_threads\Lab5_threads\obj\Debug\Lab5_threads.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\Lab5_threads\Lab5_threads\obj\Debug\Lab5_threads.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\Lab5_threads\Lab5_threads\obj\Debug\Lab5_threads.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\Lab5_threads\Lab5_threads\obj\Debug\Lab5_threads.exe
+C:\Users\Пользователь\source\repos\Lab5_threads\Lab5_threads\obj\Debug\Lab5_threads.pdb
+C:\Users\Пользователь\source\repos\Lab5_threads\Lab5_threads\obj\Debug\Lab5_threads.MainForm.resources

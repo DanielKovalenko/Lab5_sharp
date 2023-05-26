@@ -1,0 +1,20 @@
+<Logs>
+  <Customer Id="1">
+    <Purchase ProductName="Product 1" Quantity="4" TotalCost="40" />
+  </Customer>
+  <Customer Id="2">
+    <Purchase ProductName="Product 1" Quantity="3" TotalCost="30" />
+  </Customer>
+  <Customer Id="3">
+    <Purchase ProductName="Product 2" Quantity="4" TotalCost="48" />
+  </Customer>
+  <Customer Id="4">
+    <Purchase ProductName="Product 1" Quantity="1" TotalCost="10" />
+  </Customer>
+  <Customer Id="5">
+    <Purchase ProductName="Product 1" Quantity="1" TotalCost="10" />
+  </Customer>
+  <Customer Id="6">
+    <Purchase ProductName="Product 3" Quantity="2" TotalCost="40" />
+  </Customer>
+</Logs>
